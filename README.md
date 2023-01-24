@@ -14,8 +14,9 @@
 
 - 📫 How to reach me **aarshchaube@gmail.com**
 
-- ⚡ Fun fact **I'm a drummer with a liking for metal music**
 - 📌 If you're an AI enthusiast like me, do the join our [Paper Reading Group](https://discord.gg/wyY7V3Uj) at Ivy !
+
+- ⚡ Fun fact **I'm a drummer with a liking for metal music**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
