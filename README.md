@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarsh</h1>
 <h3 align="center">A Machine Learning Researcher with interests in Machine Vision and Self Driving cars !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarsh2001&label=Profile%20views&color=0e75b6&style=flat" alt="aarsh2001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarsh2001" alt="aarsh2001" /></a> </p>
 
 - 🔭 I’m currently working at [Ivy](https://github.com/unifyai)
 
