@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarsh</h1>
-<h3 align="center">A Machine Learning/Computer Vision Enthusiast !</h3>
+<h3 align="center">A Machine Learning Researcher with interests in Machine Vision and Self Driving cars !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarsh2001&label=Profile%20views&color=0e75b6&style=flat" alt="aarsh2001" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Ivy](https://github.com/unifyai)
 
-- 🌱 I’m currently learning **Onnx, TensorRT, PyTorch3D**
+- 🌱 I’m currently learning **MLIR, XLA, Onnx, TensorRT, PyTorch3D**
 
 - 👯 I’m looking to collaborate on [Comma AI](https://github.com/commaai)
 
