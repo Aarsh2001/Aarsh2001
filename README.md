@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aarsh</h1>
+<h1 align="center">Hey there 👋, I'm Aarsh</h1>
 <h3 align="center">A Machine Learning Researcher with interests in Machine Vision and Self Driving cars !</h3>
-
+<br />
 
 - 🔭 I’m currently working at [Ivy](https://github.com/unifyai)
 
