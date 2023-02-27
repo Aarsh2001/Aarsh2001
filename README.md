@@ -21,6 +21,7 @@
 # A bit of Technical Blogging 📄🤓
 
 <!-- BLOG-POST-LIST:START -->
+- [P-Value A Statistician’s Buzzword](https://medium.com/data-science-community-srm/p-value-a-statisticians-buzzword-ea7532b9596c?source=rss-225e4aca432e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
