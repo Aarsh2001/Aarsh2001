@@ -1,18 +1,19 @@
 name: Latest blog post workflow
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '*/20 * * * *'
+  schedule: 
+    - cron: '0 0 */20 * *' 
+  workflow_dispatch: 
+
 jobs:
   update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout
         uses: actions/checkout@v2
-        with:
-          path: Aarsh2001
-      
-      - name: Update with latest blog
+      - name: Fetch tech blogs from medium
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          max_post_count: "5"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: 'https://medium.com/feed/@Aarsh'
