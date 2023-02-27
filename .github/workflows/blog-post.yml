@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '*/20 * * * *'
 permissions:
-  actions: read-all|write-all
+  actions: write-all
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
