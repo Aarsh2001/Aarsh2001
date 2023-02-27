@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I'm a drummer with a liking for metal music**
 
-# A bit of Technical Blogging 📝🤓
+### A bit of Tech Blogging 📝🤓
 
 <!-- BLOG-POST-LIST:START -->
 - [P-Value A Statistician’s Buzzword](https://medium.com/data-science-community-srm/p-value-a-statisticians-buzzword-ea7532b9596c?source=rss-225e4aca432e------2)
