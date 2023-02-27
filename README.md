@@ -8,8 +8,6 @@
 
 - 👯 I’m looking to collaborate on [Comma AI](https://github.com/commaai)
 
-- 📝 I regularly write articles on [https://medium.com/@Aarsh](https://medium.com/@Aarsh)
-
 - 💬 Ask me about **3D Computer Vision, Autonomous Vehicles**
 
 - 📫 How to reach me **aarshchaube@gmail.com**
@@ -18,7 +16,7 @@
 
 - ⚡ Fun fact **I'm a drummer with a liking for metal music**
 
-# A bit of Technical Blogging 📄🤓
+# A bit of Technical Blogging 📝🤓
 
 <!-- BLOG-POST-LIST:START -->
 - [P-Value A Statistician’s Buzzword](https://medium.com/data-science-community-srm/p-value-a-statisticians-buzzword-ea7532b9596c?source=rss-225e4aca432e------2)
