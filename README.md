@@ -14,7 +14,7 @@
 
 - 📌 If you're an AI enthusiast like me, do the join our [Paper Reading Group](https://discord.gg/wyY7V3Uj) at Ivy !
 
-- ⚡ Fun fact **I'm a drummer with a liking for metal music**
+- ⚡ Fun fact I'm a drummer with a liking for metal music. Drum covers on IG !
 - 🏔🏜🌊 You can find me vacationing every now and then. Follow me on [Pinterest](https://in.pinterest.com/aarshchaube/) to have a look at my world 🙂 !
 
 ### A bit of Tech Blogging 📝🤓
