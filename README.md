@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Ivy](https://github.com/unifyai)
 
-- 🌱 I’m currently learning **MLIR, XLA, Onnx, TensorRT, PyTorch3D**
+- 🌱 I’m currently learning **MLIR, XLA, and  TensorRT**
 
 - 👯 I’m looking to collaborate on [Comma AI](https://github.com/commaai)
 
