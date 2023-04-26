@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [Comma AI](https://github.com/commaai)
 
-- 💬 Ask me about **3D Computer Vision, Autonomous Vehicles**
+- 💬 Ask me about **Deployment ☁️, Inference Engines ⚙️ and Compilers** 🛠
 
 - 📫 How to reach me **aarshchaube@gmail.com**
 
