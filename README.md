@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Aarsh</h1>
-<h3 align="center">A Deep Learning Researcher with interests in Machine Vision and Self Driving cars !</h3>
+<h3 align="center">A Deep Learning Researcher with interests in Machine Vision and Compilers !</h3>
 <br />
 
 - 🔭 I’m currently working at [Ivy](https://github.com/unifyai)
