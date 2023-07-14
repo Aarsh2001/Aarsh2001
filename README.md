@@ -1,14 +1,18 @@
 <h1 align="center">Hey there 👋, I'm Aarsh</h1>
-<h3 align="center">An AI Reseracher with interests in Machine Vision and Compilers !</h3>
-<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Applied%20AI%20Researcher-Machine%20Vision%20%26%20Compilers-blueviolet" alt="Applied AI Researcher">
+</p>
+<p align="center">By integrating cutting-edge computer vision techniques with advanced compiler technologies, I strive to develop innovative solutions that bridge the gap between perception and action.</p>
 
 ![robots modern art 3](https://github.com/Aarsh2001/Aarsh2001/assets/65212523/19f0143a-9dc5-4300-906b-2654d5c314b5)
 
+- 📚 I'm currently pursing an MSc Computer Graphics, Vision and Imaging at [UCL](https://www.ucl.ac.uk/)
+  
 - 🔭 I’m currently working at [Ivy](https://github.com/unifyai)
 
-- 🌱 I’m currently learning **MLIR, XLA, and  TensorRT**
+- 🌱 I’m currently learning **LLVM and MLIR** toochains
 
-- 👯 I’m looking to collaborate on [Comma AI](https://github.com/commaai)
+- 👯 I’m looking to collaborate on [LibTVM](https://github.com/apache/tvm)
 
 - 💬 Ask me about **Deployment ☁️, Inference Engines ⚙️ and Compilers** 🛠
 
