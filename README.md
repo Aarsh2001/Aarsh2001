@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Aarsh</h1>
+<h1 align="center"><samp>Hey there 👋, I'm Aarsh 👓 </samp></h1> 
 <p align="center">
   <img src="https://img.shields.io/badge/Applied%20AI%20Researcher-Machine%20Vision%20%26%20Compilers-blueviolet" alt="Applied AI Researcher">
 </p>
