@@ -1,6 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Aarsh</h1>
-<h3 align="center">A Deep Learning Researcher with interests in Machine Vision and Compilers !</h3>
+<h3 align="center">An AI Reseracher with interests in Machine Vision and Compilers !</h3>
 <br />
+
+![robots modern art 3](https://github.com/Aarsh2001/Aarsh2001/assets/65212523/19f0143a-9dc5-4300-906b-2654d5c314b5)
 
 - 🔭 I’m currently working at [Ivy](https://github.com/unifyai)
 
