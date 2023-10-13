@@ -27,6 +27,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [P-Value A Statistician’s Buzzword](https://medium.com/data-science-community-srm/p-value-a-statisticians-buzzword-ea7532b9596c?source=rss-225e4aca432e------2)
+- [Ivy - Unifying ML with One Line Of Code](https://medium.com/@Aarsh/ivy-unifying-ml-with-one-line-of-code-1ba2720f3be3)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
