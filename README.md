@@ -8,7 +8,7 @@
 
 - 📚 I'm currently pursing an MSc Computer Graphics, Vision and Imaging at [UCL](https://www.ucl.ac.uk/)
   
-- 🔭 I’m currently working at [Ivy](https://github.com/unifyai)
+- 🔭 I’m currently working at [Moralis](https://moralis.com/)
 
 - 🌱 I’m currently learning **LLVM and MLIR** toochains
 
