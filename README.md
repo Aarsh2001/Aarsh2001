@@ -10,8 +10,6 @@
   
 - 📚 I recently completed my master's in Computer Graphics, Vision and Imaging at [UCL](https://www.ucl.ac.uk/)
   
-- 🔭 I’m currently working at [Moralis](https://moralis.com/)
-
 - 🌱 I’m currently learning **LLVM and MLIR** toochains
 
 - 👯 I’m looking to collaborate on [LibTVM](https://github.com/apache/tvm)
