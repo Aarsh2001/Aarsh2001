@@ -6,7 +6,7 @@
 
 ![robots modern art 3](https://github.com/Aarsh2001/Aarsh2001/assets/65212523/19f0143a-9dc5-4300-906b-2654d5c314b5)
 
-- 📚 I'm currently pursuing my PhD in Computing Systems Architecture (ICSA) at [The University of Edinburgh](https://informatics.ed.ac.uk/)
+- 📚 I'm currently pursuing my PhD in Neural translation and Superoptimization ar Computing Systems Architecture (ICSA) at [The University of Edinburgh](https://informatics.ed.ac.uk/) under Prof. [Michael O' Boyle](https://www.dcs.ed.ac.uk/home/mob/)
   
 - 📚 I recently completed my master's in Computer Graphics, Vision and Imaging at [UCL](https://www.ucl.ac.uk/), [here](https://github.com/Aarsh2001/OmniTrack) is the link to my thesis.
 
